@@ -11,5 +11,5 @@ function draw() {
   background(220);
   ellipse(x, y, 50, 50);
   ellipse(10, y, 50, 50);
-  x=x+10;
+  x=x+1;
 } 
